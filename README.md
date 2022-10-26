@@ -1,1 +1,2 @@
 # BrasRobotiqueApp
+expo start --tunnel
